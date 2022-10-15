@@ -1,5 +1,4 @@
-### Download - [Click](https://github.com/Spongly/Remove-Quick-Access/releases/download/1/remove.reg)
-
+<h3 align="center">### Download - [Click](https://github.com/Spongly/Remove-Quick-Access/releases/download/1/remove.reg)</h3>
 
 > Tutorial
 
