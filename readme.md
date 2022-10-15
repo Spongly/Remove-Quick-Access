@@ -1,4 +1,7 @@
-`Download` - [Click](https://github.com/Spongly/Remove-Quick-Access/releases/download/1/remove.reg)
+Download - [Click](https://github.com/Spongly/Remove-Quick-Access/releases/download/1/remove.reg)
+
+
+<h1></h1>
 
 
  <h3 align="center">**Tutorial**</h3>
